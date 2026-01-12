@@ -76,8 +76,6 @@
   
 - 👨‍💻All of my projects are available at [Github](https://github.com/Shagunsharmacs22)💻✨
 
-- 📄Check out my portfolio link at [Portfolio](https://nidhi-upman-command-prompt-portfolio.vercel.app/) 💻✨
-
 - 📫How to reach me **shagunmanishsharma@gmail.com**
 
 - ⚡Fun fact **I enjoy collaborating and sharing knowledge**
