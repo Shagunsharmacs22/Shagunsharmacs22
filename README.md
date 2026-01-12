@@ -30,7 +30,7 @@
 </pre>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shagunsharmacs22&label=Profile%20views&color=0e75b6&style=flat" alt="shagun Sharma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shagunsharmacs22&label=Profile%20views&color=0e75b6&style=flat" alt="shagun Sharma" /> </p>
 
 
 - 🎓I'm Btech Student **in Computer Science and Engineering.💻🔧**
